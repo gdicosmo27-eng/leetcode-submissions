@@ -1,6 +1,6 @@
-# NeetCode Solutions — @gdicosmo27-eng
+# LeetCode Solutions — @gdicosmo27-eng
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `Leetcode-submissions`
 
 ---
 
